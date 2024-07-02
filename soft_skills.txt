@@ -1,0 +1,108 @@
+**Skills de manejo de herramientas** (Habilidades Técnicas)
+
+- Gestión de proyectos:
+    - Asana
+    - Trello
+    - Jira
+    - Git Hub
+
+- Análisis de Datos Empresariales
+    
+    - Python
+    - SQL
+    - DAX
+    - Transformación de datos, extracción y web scraping:
+        - NumPy
+        - Pandas
+        - Beautiful Soup
+        - Selenium
+        - APIs
+    - Aplicación de estadísticas descriptivas e inferenciales, A/B testing y toma de decisiones basada en experimentos en análisis.
+
+- Visualización de Datos
+    - Tableau
+    - Power BI
+    - Python:
+        - Matplotlib
+        - Seaborn
+
+- Desarrollo y Automatización
+    - Diseño de procesos ETL:
+        - Python
+        - Apache Airflow
+
+- Control de Versiones
+    - Git Hub
+    - Git Kraken
+
+- Microsoft Office: Word, Excel, PowerPoint, Outlook
+
+- Comunicación: Slack, Microsoft Teams, Zoom, Discord, Skype
+
+- *WIP* Desarrollo Web: HTML, CSS, JavaScript
+
+
+**Skills de formas de trabajo**
+
+- Gestión de Proyectos: 
+    - metodologías AGILE y SCRUM para la gestión de proyectos, asegurando la entrega eficiente y dentro del plazo.
+    - metodologías LEAN y Six Sigma para la mejora continua y la optimización de procesos.
+
+- Trabajo en Equipo:
+    - Coordinación de equipos para fomentar la transparencia, la comunicación y la colaboración efectiva y respetuosa.
+    - Dirigí la transformación de procesos comerciales, logísticos y financieros en un equipo internacional y multidisciplinar de más de 50 personas durante la pandemia global de Covid-19 y posterior recuperación del mercado.
+
+- Comunicación Efectiva:
+    - Habilidades avanzadas en la comunicación verbal y escrita tanto en inglés como en español, facilitando la claridad y comprensión en todas las interacciones profesionales.
+    - Lideré reuniones periódicas para el seguimiento, consecución y superación de los objetivos financieros de la compañía.
+
+- Adaptabilidad:
+    - Capacidad para adaptarse rápidamente a nuevos entornos de trabajo, tecnologías y procesos. 
+    - Lideré a nivel operativo el lanzamiento y pipeline de Larios Rosé, que obtuvo el premio Producto del Año 2017 a la Innovación, así como de la línea "Le Petit Marseillase" entre otros
+
+- Resolución de Problemas: 
+    - Enfoque proactivo en la identificación y resolución de problemas, con una actitud orientada a encontrar soluciones efectivas.
+    - Transformé durante un año fiscal el sistema de pronóstico y seguimiento de ventas a nivel de procesos y sistemas, contribuyendo a la facturación récord de 157M EUR NSV en 2019 y simplificando el trabajo de todos los departamentos.
+
+- Organización y Planificación: 
+    - Habilidades sobresalientes en la organización y planificación de tareas y proyectos, garantizando el cumplimiento de plazos y objetivos.
+    - Integré el módulo para proyecciones estadísticas en el ERP del programa TXT, utilizando modelos como ARIMA, Croston, suavizado exponencial triple y Holt-Winters, media móvil para la proyección de ventas, alcanzando una precisión de la estimación del 90% con una desviación del 4% para unas 400 SKUs en 5 almacenes.
+
+- Gestión del Tiempo: 
+    - Eficaz en la gestión del tiempo y priorización de tareas para maximizar la productividad.
+
+- Liderazgo: 
+    - Experiencia en liderar equipos y proyectos multidisciplinares y multiculturales, motivando a los miembros del equipo y gestionando recursos para alcanzar los objetivos establecidos.
+    - Como usuario experto, contribuí a la implementación de SAP (R3, BW, APO), destacando en modelado estadístico y gestión del maestro de artículos, mejorando el MAPE de la previsión a dos meses desde un 30% hasta un 14%. Dirigí las actividades de la cadena de suministro, incluyendo negociaciones con proveedores, gestión y planificación de líneas de producción, y toda la logística relacionada, garantizando un nivel de servicio del 100%.
+
+- Orientación a Resultados: 
+    - Mentalidad de mejora continua y fuerte enfoque en soluciones empresariales, orientado a la consecución de resultados.
+    - Mi dedicación se centra en impulsar la optimización de la organización y satisfacer eficientemente las demandas del cliente, contribuyendo significativamente al buen desempeño del negocio.
+    - Cálculo, reporte y análisis causal de KPI, implementando acciones correctivas de mejora del negocio.
+
+
+**Skills de trato con las personas**
+
+- Comunicación No Violenta:
+    - Capacitado en técnicas de Comunicación No Violenta, fomentando un entorno de respeto y comprensión mutua en el trabajo.
+
+- Asertividad:
+    - Habilidades avanzadas en comunicación asertiva, permitiendo expresar ideas y necesidades de manera clara y respetuosa, facilitando la resolución de conflictos.
+
+- Gestión del Estrés:
+    - Formación en técnicas de gestión del estrés, contribuyendo a mantener un ambiente de trabajo positivo y productivo incluso bajo presión.
+
+- Comprensión Cultural:
+    - Conocimientos adquiridos a través del curso "The Culture Map", mejorando la efectividad en la comunicación y colaboración con equipos internacionales y multiculturales.
+
+- Colaboración y Trabajo en Equipo: 
+    - Experiencia en la coordinación de equipos para fomentar la transparencia, la comunicación y la colaboración efectiva y respetuosa.
+
+- Empatía y Escucha Activa:
+    - Fuerte capacidad para la empatía y la escucha activa, asegurando que las preocupaciones y sugerencias de los compañeros de equipo sean valoradas y consideradas.
+
+- Liderazgo Inclusivo:
+    - Enfoque en el liderazgo inclusivo, motivando y apoyando a los miembros del equipo para alcanzar su máximo potencial.
+
+- Resolución de Conflictos:
+    - Habilidades para la resolución efectiva de conflictos, mediando situaciones difíciles y encontrando soluciones que beneficien a todas las partes involucradas.
